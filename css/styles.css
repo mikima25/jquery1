@@ -1,0 +1,23 @@
+.walrus-showing {
+    display: none;
+}
+
+p {
+    cursor: none;
+    color: #0088cc;
+}
+p:hover {
+    text-decoration: underline;
+}
+
+
+
+.green-background {
+    background-color: green;
+}
+.yellow-background {
+    background-color: yellow;
+}
+.red-background {
+    background-color: red;
+}
